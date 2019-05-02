@@ -1,7 +1,6 @@
 #include<stdio.h>
 int main()
 {
-printf("first OSS code\n");
-printf("second OSS code\n");
+printf("내이름은 이민수\n");
 return 0;
 }
